@@ -1,0 +1,21 @@
+{
+  "name": "demo_006",
+  "homepage": "https://github.com/cibily/twb4a_presentation",
+  "authors": [
+    "Silvia Trevellin <silvia.trevellin@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "moduleType": [],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "v4-dev"
+  }
+}
