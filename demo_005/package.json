@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "dependencies": {
-    "bootstrap": "^4.0.0-alpha"
+    "bootstrap": "git+https://github.com/twbs/bootstrap.git#v4-dev"
   },
   "devDependencies": {},
   "scripts": {
