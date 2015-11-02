@@ -1,0 +1,33 @@
+// Variables
+
+
+
+// Components
+//@import "./bower_components/bootstrap/scss/bootstrap";
+
+// Core variables and mixins
+@import "./bower_components/bootstrap/scss/variables";
+@import "./bower_components/bootstrap/scss/mixins";
+
+// Reset and dependencies
+@import "./bower_components/bootstrap/scss/normalize";
+@import "./bower_components/bootstrap/scss/reboot";
+@import "./bower_components/bootstrap/scss/type";
+
+// Core CSS
+@import "./bower_components/bootstrap/scss/grid";
+
+// Components
+@import "./bower_components/bootstrap/scss/buttons";
+
+
+
+// Customization
+
+h2 {
+	margin: 100px 0  40px 0;
+}
+
+
+
+  
