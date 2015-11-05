@@ -1,0 +1,47 @@
+// Variables
+
+$enable-flex: true;
+
+// Components
+//@import "./bower_components/bootstrap/scss/bootstrap";
+
+// Core variables and mixins
+@import "./bower_components/bootstrap/scss/variables";
+@import "./bower_components/bootstrap/scss/mixins";
+
+// Reset and dependencies
+@import "./bower_components/bootstrap/scss/normalize";
+@import "./bower_components/bootstrap/scss/reboot";
+@import "./bower_components/bootstrap/scss/type";
+
+// // Core CSS
+@import "./bower_components/bootstrap/scss/grid";
+// @import "./bower_components/bootstrap/scss/buttons";
+
+
+
+
+// Customization
+
+
+html {
+  font-size: 16px;
+}
+[class^="col"] {
+	background: rgba(245, 175, 24, 0.73); 
+	border: 1px solid rgba(245, 175, 24, 0.8);
+}
+.toggle-stuff {
+	text-align: center;
+	margin: 30px 0;
+}
+h2 {
+    margin: 30px 0 15px;
+
+}
+h4 {
+  	margin-bottom: 20px;
+}
+
+
+  
