@@ -1,6 +1,6 @@
 // Variables
 
-$enable-flex: true;
+//$enable-flex: true;
 
 // Components
 @import "./bower_components/bootstrap/scss/bootstrap";
@@ -23,8 +23,8 @@ $enable-flex: true;
 // Customization
 
 h2 {
-    text-align: center;
-    margin: 30px 0;
+  text-align: center;
+  margin: 30px 0;
 }
 .demo-card {
   width: 100%;
