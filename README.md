@@ -1,57 +1,51 @@
 Meet twitter Bootstrap 4-Alpha
 ==============================
 
-In this repository I collected some demo for show to you how to use Bootstrap-4-Alpha in different ways.
+In this repository I've put together some demos with the purpose to you how to use Bootstrap-4-Alpha under different circumstances.
 
-In every forlder you will find also some extra inportations about the demo
-
-
+The repo is organised in demo-folders, each demo contains it's own instructions and informations into the `README.md` file.
 
 ### Demo 001
 
-CodePen with link at Bootstrap's File from Github.
+CodePen linking Bootstrap's files from GitHub.
 
-Take a look here: 
-
+Run the pen:  
 [http://codepen.io/cibily/pen/jbKprm](http://codepen.io/cibily/pen/jbKprm)
 
 ### Demo 002
 
-Local html with link at Bootstrap's File from Github.
+Local HTML document linking Bootstrap's files from GitHub.
 
 ### Demo 003
 
-Local html with full Bootstrap distribution package.
+Local HTML document linking a local Bootstrap distribution package.
 
 ### Demo 004
 
-Dowload Bootstrap using Bower.
-
+Like `Demo003` but it uses [Bower](http://bower.io) to define Bootstrap as a project dependency.
 
 ### Demo 005
 
-Dowload Bootstrap using NPM.
-
+Like `Demo003` but it uses [NPM](http://npmjs.org) to define Bootstrap as a project dependency.
 
 ### Demo 006
 
-@import Bootstrap on your custom.css file instead in the html file
-
+Add some customisation to your project using [SASS](http://sass-lang.com/) and compiling Bootstrap's source files.
 
 ### Demo 007
 
-Use variables to customize your project.
+Improve customization by using variables to change Bootstrap's defaults.
 
 ### Demo 008
 
-@import component that you really need.
+Reduce the CSS code footprint by including only the Boostrap's modules that are essential to the project.
 
 ### Demo 009
 
-Some new elements of Bootstap 4
+Bootstap4 Showcase:
 
-* GRID with REM
-* FLEXBOX GRID
-* CARD
-* BUTTONS	
-* HEADINGS
+* grid (using `rem` unit)
+* flexbox grid
+* card element
+* new button styles
+* new headings
