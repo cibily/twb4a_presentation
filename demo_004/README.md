@@ -1,8 +1,10 @@
 ### DEMO 4
 
+### Download Bootstrap usingBower
+---
 Well, I think all of you use GitHub to keep under control your code.
 
-Do you really wnat to host Bootstrap files within your repository?
+***Do you really wnat to host Bootstrap files within your repository?***
 
 If you do that you probably know that:
 
@@ -12,7 +14,7 @@ If you do that you probably know that:
 
 For me this short list it's enough to decide to never dowload a library ever again in life! 
 
-Tools like Bower or NPM help us to dowload libraries on our behalf and keep those libraries up to date.
+Tools like **Bower** or **NPM** help us to dowload libraries on our behalf and keep those libraries up to date.
 
 In the the DEMO 004 you can see how I used Bower.
 
