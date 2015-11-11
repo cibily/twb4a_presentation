@@ -1,20 +1,24 @@
 @import "./bower_components/bootstrap/scss/bootstrap";
 
 body {
-	background: url(./images/bridge.jpg) no-repeat center center fixed; 
-	background-size: cover;
+    background: url(./images/bridge.jpg) no-repeat center center fixed; 
+    background-size: cover;
 }
 
 #my-card {
-	background: #f5f5f5;
-	position:fixed;
-	color:#fff;
-	top:50%;
-	left:50%;
-	transform: translate(-50%,-50%);
-	color: #333;
+    background: #f5f5f5;
+    position:fixed;
+    color:#fff;
+    top:50%;
+    left:50%;
+    transform: translate(-50%,-50%);
+    color: #333;
 }
 
 
 
-  
+.btn-primary {
+    color: black;
+    background-color: pink;
+    border-color: pink;
+}
